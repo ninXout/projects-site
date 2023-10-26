@@ -46,7 +46,7 @@
 
 @font-face {
     font-family: ModernSans;
-    src: url("../assets/CeraPro.otf");
+    src: url("/assets/CeraPro.otf");
 }
 
 * {
