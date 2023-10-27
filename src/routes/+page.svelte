@@ -12,7 +12,7 @@
 <body>
   <nav class="navbar">
     <div class="logo">
-        <img src="src/assets/crystal.png" alt="logo"/>
+        <img src="$lib/assets/crystal.png" alt="logo"/>
     </div>
 
     <ul class="nav-links">
@@ -31,7 +31,7 @@
     <p class="fab">The first and best <color>Cross Platform</color> mod menu for Geometry Dash</p>
     <a href="https://github.com/ninXout/Crystal-Client/releases/download/v4.0.1/ninxout.crystalclient.geode"><button class="btn" data="Download Crystal v4.0.1"></button></a>
     <a href="https://github.com/ninXout/Crystal-Client"><button style="transform:translate(-405px, 80px)" class="btn" data="View repository on GitHub"></button> </a>
-    <img src="src/assets/modmenu.png" alt="modmenu" />
+    <img src="$lib/assets/modmenu.png" alt="modmenu" />
   </div>
 
   <div class="showcase">
@@ -46,7 +46,7 @@
 
 @font-face {
     font-family: ModernSans;
-    src: url("/assets/CeraPro.otf");
+    src: url("$lib/assets/CeraPro.otf");
 }
 
 * {
